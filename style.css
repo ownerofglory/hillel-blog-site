@@ -1,0 +1,22 @@
+.post {
+    margin: 20px;
+}
+
+#post-section {
+    width: 100%;
+}
+
+.hor-center {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#posts-section:nth-child(1) {
+    margin-top: 40px;
+}
+
+.comment-button {
+    width: 20%;
+
+}
